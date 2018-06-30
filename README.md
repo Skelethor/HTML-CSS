@@ -8,7 +8,8 @@ Exercices Odyssey [INTEGRATION - HTML+CSS]
 
 * Q1 : Structurer une page `HTML`
 * Q2 : Donne du style avec `CSS`
-* Q3 : Intégration Finale
+* Q3 : Prepocesseur CSS `(SCSS)` 
+* Q4 : Intégration Finale
 
 ---
 
