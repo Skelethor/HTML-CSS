@@ -1,0 +1,3 @@
+# Wanted !
+
+* Les aventuriers désireux de détruire l'anneau doivent être arrêtés ! Pour cela, tu dois afficher leur portrait sur le site. Pour inciter orcs, trolls et autres gobelins à traquer sans relâche ces félons, une récompense devra être mise en avant sur chaque portrait, ainsi que le nom de l'aventurier. Ces informations ont cependant tendance à cacher l'image. C'est pourquoi celles-ci devront disparaître ou s'écarter au survol de la souris, comme illustré sur l'image ci-dessous. Tu pourras également ajouter un petit effet d'opacité sur l'image (afin de mettre en valeur les textes), effet qui disparaîtra au moment du survol. Bon courage, Sauron compte sur toi !

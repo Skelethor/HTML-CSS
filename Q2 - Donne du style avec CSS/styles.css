@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400');
+
+body {
+    background-color: #ADADAD;
+    font-size: 20px;
+    font-family: Source Sans Pro;
+}
+
+#image {
+    background-image: url('http://images.innoveduc.fr/integration_gandalf.png');
+    margin: 30px auto;
+    width: 500px;
+    height: 572px;
+    opacity: .75;
+}
+
+#image span{
+    color: #000;
+    font-family: Source Sans Pro;
+    font-size : 40px;
+    text-align: center;
+    background-color: #E1E1E1;
+    padding: 10px 50px;
+    position : absolute;
+    top: 50px;
+    left: 13em;
+    opacity: .9;
+    border-radius: 10px;
+}
+
+#image h1 {
+    color: #F9F9F9;
+    font-size: 90px;
+    font-family: Source Sans Pro;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 250px;
+    font-weight: 300;
+}
+
+#image:hover {
+    opacity: 1;
+}
+
+#image:hover span {
+    visibility: hidden;
+}
+
+#image:hover h1 {
+    color: #F9F9F9;
+    font-size: 40px;
+    font-family: Source Sans Pro;
+    text-align: center;
+    position: absolute;
+    bottom: 50px;
+    left: 15em;
+    font-weight: 400;
+}
